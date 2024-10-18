@@ -1,1 +1,1 @@
-print('Hello im max and i do not know how to code')
+Hallo ich bin max
